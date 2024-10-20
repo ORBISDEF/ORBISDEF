@@ -1,7 +1,7 @@
 - Oi sou a @ORBISDEF
 - E sou um tripe entre a industria,instituição e setor academico
 - Atualmente estou trabalhando em um projeto de pesquisa para de fato entregar uma solução
-- O objetivo desta pesquisa é promover uma sinergia eficaz entre a indústria de defesa, as instituições militares
+- O objetivo desta pesquisa é promover uma sinergia eficaz entre a indústria de defesa, as instituições militares e o setor academico
 - Esse esforço visa identificar e implementar as tecnologias mais adequadas e necessárias para as operações militares
 - Além de fomentar pesquisas inovadoras que contribuam para o avanço da defesa e do militarismo.
 - Essa conexão é de extrema importância para fortalecer a indústria, garantindo que ela se desenvolva de forma robusta e alinhada com as necessidades operacionais
